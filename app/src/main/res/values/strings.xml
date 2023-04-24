@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tzrikmstrs</string>
+    <string name="img">img</string>
+    <string name="camera">Камера</string>
+    <string name="door">Дверь</string>
+    <string name="title">Мой дом</string>
+    <string name="cameras">Камеры</string>
+    <string name="doors">Двери</string>
+    <string name="favorites">favorites</string>
+    <string name="edit">edit</string>
+</resources>
